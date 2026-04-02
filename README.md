@@ -3,7 +3,7 @@
 # Hola, soy Rodolfo Garcia 👋
 ### Full Stack Developer | Python · Django · FastAPI · Next.js | Ex-Consultor FAO/ONU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodolfo--garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rody-garcia-870516400/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodolfo--garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-garcia-dev/)
 [![Email](https://img.shields.io/badge/Email-rodygm0104@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodygm0104@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=rodolfo150194&color=0A66C2&style=for-the-badge)
 
@@ -79,7 +79,7 @@ Soy ingeniero informatico con **7+ años de experiencia** en desarrollo web empr
 
 - 📧 rodygm0104@gmail.com
 - 📱 +34 640 999 269
-- 💼 [LinkedIn](https://www.linkedin.com/in/rody-garcia-870516400/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodolfo-garcia-dev/)
 - 📍 Granollers, Barcelona
 
 > *Abierto a oportunidades como Full Stack Developer o Backend Developer — remoto o hibrido.*
