@@ -50,18 +50,6 @@ Soy ingeniero informatico con **7+ años de experiencia** en desarrollo web empr
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rodolfo150194&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo150194&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
----
 
 ## 🚀 Proyectos destacados
 
